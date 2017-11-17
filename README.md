@@ -1,6 +1,8 @@
 11/16/2017 
 Author: Michael Allen
 
+End of Sprint Survey, Biases, and Data Formats
+
 Sprint 1 - As a Technology Instructor: I need to understand the basic terminology and structure of data from End of Course Surveys from SurveyMonkey so I can apply statistical analyses in the future. I also need to understand the story of where the data came from (potential biases) so I know how it may be relevant to my action or recommendation.
 
 Project Description: To determine if the raw "End of Training Course Survey" Data from SurveyMonkey can be Exported / Worked with in R for Future Statistical Analysis.  To understand the potential biases from survey particpants and survey designers.
